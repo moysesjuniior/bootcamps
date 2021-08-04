@@ -1,10 +1,10 @@
-package com.digitalinnovationone.springboot;
+package br.com.globallabs.exemplomaven;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootApplicationTests {
+class ExemploMavenApplicationTests {
 
 	@Test
 	void contextLoads() {
